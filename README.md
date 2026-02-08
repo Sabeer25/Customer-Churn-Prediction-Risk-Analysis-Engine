@@ -168,5 +168,3 @@ Ideal for:
 - Interview discussions on classification problems
 
 ---
-
-**Feel free to fork, modify, and extend this project!**
